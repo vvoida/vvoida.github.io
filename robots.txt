@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vvoida.github.io/SvK/sitemap.SvK.gz
